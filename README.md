@@ -1,7 +1,7 @@
 # L293D DC Motor Driver (PlatformIO + Arduino)
 
 A **DC motor driver** using the **L293D H-Bridge** with PlatformIO.
-This project provides a small driver library and example code to control a DC motor with PWM speed control and limit switch support.
+This project provides a driver library and example code to control a DC motor with PWM speed control and limit switch support.
 
 ---
 
