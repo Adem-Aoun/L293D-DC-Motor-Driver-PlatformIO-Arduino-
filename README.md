@@ -54,7 +54,7 @@ This project provides a driver library and example code to control a DC motor wi
 Clone this repo and open with PlatformIO:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dc_motor_driver_l293d.git
+git clone [https://github.com/YOUR_USERNAME/dc_motor_driver_l293d.git](https://github.com/Adem-Aoun/L293D-DC-Motor-Driver-PlatformIO-Arduino-](https://github.com/Adem-Aoun/L293D-DC-Motor-Driver-PlatformIO-Arduino-.git)
 cd dc_motor_driver_l293d
 ```
 
