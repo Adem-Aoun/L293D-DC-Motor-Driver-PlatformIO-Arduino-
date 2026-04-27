@@ -2,7 +2,7 @@
 
 static inline int map_speed(float speed){
     if (speed < 0) speed =0;
-    if(speed > 100) speed=100;
+    else if(speed > 100) speed=100;
     return (int)(speed*255.0/100.0);
 }
 
