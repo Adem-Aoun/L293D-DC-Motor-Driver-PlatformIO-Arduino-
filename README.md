@@ -5,7 +5,7 @@ This project provides a driver library and example code to control a DC motor wi
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 .
@@ -21,7 +21,7 @@ This project provides a driver library and example code to control a DC motor wi
 
 ---
 
-## ⚙️ Features
+##  Features
 
 * Control DC motor **clockwise (CW)** and **counter-clockwise (CCW)**.
 * **Variable speed** control (0–100% speed).
@@ -31,7 +31,7 @@ This project provides a driver library and example code to control a DC motor wi
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Requirements
 
@@ -66,7 +66,7 @@ pio run --target upload
 
 ---
 
-## 📖 Example Usage
+##  Example Usage
 
 ```cpp
 #include <Arduino.h>
@@ -103,7 +103,7 @@ void loop() {
 
 ---
 
-## 🔧 API Reference
+##  API Reference
 
 ### Struct
 
@@ -125,6 +125,6 @@ typedef struct {
 
 ---
 
-## 👤 Author
+##  Author
 
 Developed by [Adem aoun](https://github.com/Adem-Aoun)
